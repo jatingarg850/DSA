@@ -1,0 +1,30 @@
+# Ignore build and binary files
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.o
+*.out
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore swap and backup files
+*~
+*.swp
+
+# Ignore compiled Python files (if any)
+__pycache__/
+*.pyc
+
+# Ignore other common folders
+.idea/
